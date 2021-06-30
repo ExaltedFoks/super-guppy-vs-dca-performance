@@ -38,55 +38,55 @@ Extrapolating more, this study shows me a few things:
 ### Calculation for Super Guppy
 Starting w/ $10000. Pricing approximated from Coinbase chart, assuming no other fees. The naive guppy strategy involves going long/short when the guppy flips green/red respectively. Strategy derived from daily $ETH chart:
 
-short Jan 17 2019 @ 120.44
-exit feb 16 2019 @ 122.14
-profit : -1.411%
-new capital: 9858.85
+short Jan 17 2019 @ 120.44  
+exit feb 16 2019 @ 122.14  
+profit : -1.411%  
+new capital: 9858.85  
 
-long Apr 01 2019 @ 141.36
-exit Jul 15 2019 @ 223.66
-profit: +58.22%
-new capital: 15598.69
+long Apr 01 2019 @ 141.36  
+exit Jul 15 2019 @ 223.66  
+profit: +58.22%  
+new capital: 15598.69  
 
-short Aug 12 2019 @ 214.04
-exit Sep 19 2019 @ 215.05
-profit: -0.42%
-new capital: $15532.40
+short Aug 12 2019 @ 214.04  
+exit Sep 19 2019 @ 215.05  
+profit: -0.42%  
+new capital: $15532.40  
 
-short Sep 24 2019 @ 175.06
-exit Nov 04 2019 183.66
-profit: -4.91%
-new capital: 14769.36
+short Sep 24 2019 @ 175.06  
+exit Nov 04 2019 183.66  
+profit: -4.91%  
+new capital: 14769.36  
 
-short Nov 19 2019 @ 176.5
-exit Jan 13 2020 @ 145.13
-profit: +17.77%
-new capital: 17394.37
+short Nov 19 2019 @ 176.5  
+exit Jan 13 2020 @ 145.13  
+profit: +17.77%  
+new capital: 17394.37  
 
-long Feb 2 2020 @ 185.68
-exit Mar 10 2020 @ 201.96
-profit: +8.77%
-new capital: 18919.47
+long Feb 2 2020 @ 185.68  
+exit Mar 10 2020 @ 201.96  
+profit: +8.77%  
+new capital: 18919.47  
 *note*: the guppy sold right before the -67% covid dump. Nice
 
-short Mar 20 2020 @ 135.37
-exit Apr 18 2020 @ 178.34
-profit: -31.74%
-new capital: 12913.93
+short Mar 20 2020 @ 135.37  
+exit Apr 18 2020 @ 178.34  
+profit: -31.74%  
+new capital: 12913.93  
 
-long Apr 30 2020 @ 210.92
-exit Sep 20 2020 @ 376.81
-profit: +78.65%
-new capital: 23070.82
+long Apr 30 2020 @ 210.92  
+exit Sep 20 2020 @ 376.81  
+profit: +78.65%  
+new capital: 23070.82  
 
-long Oct 14 2020 @ 379.16
-exit May 27 2021 @ 2810.17
-profit: +641.16%
-new capital: 170990.97
+long Oct 14 2020 @ 379.16  
+exit May 27 2021 @ 2810.17  
+profit: +641.16%  
+new capital: 170990.97  
 
-short Jun 28 2021 @ 2033.91
-exit ?
-*note*: not included in calculations
+short Jun 28 2021 @ 2033.91  
+exit ?  
+*note*: not included in calculations  
 
 ### Calculations for DCA:
 Calculated using [costavg.com](https://costavg.com/).
